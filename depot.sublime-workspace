@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line_",
+				"line_items"
+			],
+			[
+				"line",
+				"line_items"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"co",
+				"cookies"
+			],
+			[
+				"redirect",
+				"redirect_to"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"be_",
+				"be_signed_in"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"re",
+				"remembered_token"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elysiumlife/rails_projects/depot/Gemfile",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/products_controller.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/products/who_ bought.atom.builder",
+		"/Users/elysiumlife/rails_projects/depot/app/models/product.rb",
+		"/Users/elysiumlife/rails_projects/depot/config/routes.rb",
+		"/Users/elysiumlife/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/elysiumlife/Downloads/who_bought.atom.builder",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/orders_controller.rb",
+		"/Users/elysiumlife/rails_projects/depot/test/functional/orders_controller_test.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/line_items/create.js.erb",
+		"/Users/elysiumlife/rails_projects/depot/test/fixtures/carts.yml",
+		"/Users/elysiumlife/rails_projects/depot/test/fixtures/line_items.yml",
+		"/Users/elysiumlife/rails_projects/depot/app/models/line_item.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/models/order.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/orders/new.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/orders/_form.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/test/fixtures/orders.yml",
+		"/Users/elysiumlife/rails_projects/depot/app/assets/stylesheets/depot.css",
+		"/Users/elysiumlife/rails_projects/depot/app/views/carts/_cart.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/layouts/application.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/app/helpers/application_helper.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/carts_controller.rb",
+		"/Users/elysiumlife/rails_projects/depot/test/functional/line_items_controller_test.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/line_items/_line_item.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/line_items_controller.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/store/index.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/app/assets/javascripts/effects.js",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/create.js.rjs",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/store_controller.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/carts/show.html.erb",
+		"/Users/elysiumlife/rails_projects/depot/app/models/cart.rb",
+		"/Users/elysiumlife/rails_projects/depot/test/functional/carts_controller_test.rb",
+		"/Users/elysiumlife/rails_projects/depot/db/seeds.rb",
+		"/Users/elysiumlife/rails_projects/depot/db/migrate/20120326052912_add_quantity_to_line_items.rb",
+		"/Users/elysiumlife/rails_projects/depot/db/migrate/20120326054539_combine_items_in_cart.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/controllers/application_controller.rb",
+		"/Users/elysiumlife/rails_projects/depot/test/functional/store_controller_test.rb",
+		"/Users/elysiumlife/rails_projects/depot/test/fixtures/products.yml",
+		"/Users/elysiumlife/rails_projects/depot/test/functional/products_controller_test.rb",
+		"/Users/elysiumlife/rails_projects/depot/test/unit/helpers/products_helper_test.rb",
+		"/Users/elysiumlife/rails_projects/depot/db/migrate/20120322083247_create_products.rb",
+		"/Users/elysiumlife/rails_projects/depot/app/views/products/index.html.erb",
+		"/Users/elysiumlife/Downloads/rtp.jpg",
+		"/Users/elysiumlife/Downloads/ruby.jpg",
+		"/Users/elysiumlife/Downloads/wd4d.jpg",
+		"/Users/elysiumlife/rails_projects/depot/db/development.sqlite3",
+		"/Users/elysiumlife/rails_projects/demo/app/views/say/goodbye.html.erb",
+		"/Users/elysiumlife/rails_projects/demo/app/controllers/say_controller.rb",
+		"/Users/elysiumlife/rails_projects/demo/app/views/say/hello.html.erb",
+		"/Users/elysiumlife/rails_projects/gems/string_extend/string_extend.gemspec",
+		"/Users/elysiumlife/rails_projects/ruby_example/summarize.rb",
+		"/Users/elysiumlife/rails_projects/ruby_example/argv.rb",
+		"/Users/elysiumlife/rails_projects/ruby_example/analyzer.rb",
+		"/Users/elysiumlife/rails_projects/ruby_example/test1.rb",
+		"/Users/elysiumlife/rails_projects/ruby_example/oliver.txt",
+		"/Users/elysiumlife/github/MyFBList/app/controllers/test1.rb",
+		"/Users/elysiumlife/github/MyFBList/app/controllers/posts_controller.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/Gemfile",
+		"/Users/elysiumlife/rails_projects/sample_app/app/models/relationship.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/models/relationship_spec.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/webrat.log",
+		"/Users/elysiumlife/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/controllers/pages_controller.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/controllers/microposts_controller.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/requests/users_spec.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/models/user.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/config/routes.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/factories.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/controllers/sessions_controller_spec.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/elysiumlife/rails_projects/sample_app/app/assets/stylesheets/custom.css",
+		"/Users/elysiumlife/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/Users/elysiumlife/github/MyFBList/.project",
+		"/Users/elysiumlife/.bash_profile",
+		"/Users/elysiumlife/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/elysiumlife/rails_projects/sample_app/.autotest",
+		"/Users/elysiumlife/rails_projects/sample_app/app/views/pages/home.html.erb",
+		"/Users/elysiumlife/rails_projects/sample_app/config/database.yml",
+		"/Users/elysiumlife/pgadmin.log",
+		"/Users/elysiumlife/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/elysiumlife/rails_projects/demo_app/README"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"micropost",
+			"microposts",
+			"Relationship",
+			"RelationshipValidator",
+			"feed_items",
+			"admin?",
+			"Invalid email/password combination",
+			"be_signed_in",
+			"user@example.com",
+			"authnticate_with_salt",
+			"be_signed_in",
+			"SessionHelper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}

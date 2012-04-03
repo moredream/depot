@@ -1,4 +1,7 @@
 class ProductsController < ApplicationController
+  
+
+
   # GET /products
   # GET /products.json
   def index
@@ -78,6 +81,15 @@ class ProductsController < ApplicationController
     respond_to do |format|
       format.html { redirect_to products_url }
       format.json { head :no_content }
+    end
+  end
+
+  def who_bought
+    @product = Product.find(params[:id])
+    @orders  = @product.orders
+    respond_to do |format|
+      format.atom { render :layout => false } 
+      format.json { render :layout => false , :json => @product.to_json(:include => :orders) }
     end
   end
 end
